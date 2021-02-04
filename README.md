@@ -2,7 +2,13 @@
 
 ### 안녕하세요 😁
 
-항상 열심히 살아가는 허진용이라고 합니다.
+항상 열심히 살아가는 허진용이라고 합니다. 
+
+
+
+* 성격 😛
+  * 유형 -  [ENTJ](https://kapable.github.io/kapable.github.io/personalColor/result/ENTJ)
+  * 매사에 긍정적인 성격
 
 
 
