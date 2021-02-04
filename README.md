@@ -1,4 +1,4 @@
-# 진용 (Heo Jin Yong)
+# Heo Jin Yong
 
 ### 안녕하세요 😁
 
@@ -19,7 +19,10 @@
   
 
 * 프로젝트 ✍
-  * 금융빅데이터페스티벌 (미래에셋대우)
+
+  * [금융빅데이터페스티벌](https://programmers.co.kr/competitions/252/2020-miraeasset)
+
+    
 
 
 
