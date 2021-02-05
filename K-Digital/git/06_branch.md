@@ -1,11 +1,16 @@
 # Branch 명령어
 
-* 브랜치 생성 / 목록
+* 브랜치 생성
 
-```bash
-$ git branch 브랜치명 # 생성
-$ git branch # 목록
-```
+  ```bash
+  $ git branch 브랜치명
+  ```
+
+* 브랜치 목록
+
+  ```bash
+  $ git branch
+  ```
 
 * 브랜치 이동
 
@@ -26,6 +31,8 @@ $ git branch # 목록
   (master) $ git merge 브랜치명
   ```
 
+  * `master` 브랜치에 `브랜치명` 을 병합
+
 * 브랜치 삭제
 
   ```bash
@@ -33,4 +40,3 @@ $ git branch # 목록
   ```
 
   
-
