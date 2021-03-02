@@ -34,7 +34,7 @@
 | 21-02-23 (Tue) | CSS                       |                                |
 | 21-02-25 (Thu) | Jquery                    |                                |
 | 21-02-26 (Fri) | HTML,CSS,Jquery           |                                |
-|                |                           |                                |
+| 21-03-02 (Mon) | JSP, Servlet              |                                |
 |                |                           |                                |
 
 
